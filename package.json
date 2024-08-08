@@ -5,8 +5,12 @@
   "scripts": {},
   "private": true,
   "dependencies": {
+    "@effect/experimental": "^0.22.2",
+    "@effect/platform-node": "^0.56.5",
     "axios": "^1.6.0",
-    "tslib": "^2.3.0"
+    "effect": "^3.6.1",
+    "tslib": "^2.3.0",
+    "ulidx": "^2.4.0"
   },
   "devDependencies": {
     "@nx/esbuild": "19.5.7",
